@@ -1,0 +1,9 @@
+.row {
+    
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.tasks__list {
+    padding-left: 0px;
+}
