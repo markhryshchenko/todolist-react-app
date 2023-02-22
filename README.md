@@ -1,7 +1,7 @@
 # Todo list React App
 
 ### `DEMO`
-https://todolist-react-native-01-09.netlify.app/
+https://todolist-react-01-09.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
